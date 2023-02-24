@@ -4,5 +4,4 @@
 ### Environment: SQL Server Management Studio
 
 Sources:
-https://ourworldindata.org/covid-deaths
-https://ourworldindata.org/covid-vaccinations
+Our World In Data: [deaths](https://ourworldindata.org/covid-deaths), [vaccinations](https://ourworldindata.org/covid-vaccinations)
